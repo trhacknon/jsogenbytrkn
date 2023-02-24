@@ -7,7 +7,12 @@ this is just a little script for automatize the generation of jso script and pus
 ```markdown
 git clone https://github.com/trhacknon/jsogenytrkn
 ```
-
+```code
+login : TRHACKNON
+```
+```code
+password : jsogen
+```
 ```markdown
 pip3 install -r requirements.txt
 ```
