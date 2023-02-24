@@ -1,0 +1,9 @@
+figlet
+colorama
+glob
+sys
+os
+subprocess
+requests
+pyfiglet
+lolcat
